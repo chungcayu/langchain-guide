@@ -7,6 +7,7 @@
   - [Blog](https://blog.langchain.dev/)
   - [LangChain Hub](https://smith.langchain.com/hub)
   - [LangChain API Reference](https://api.python.langchain.com/en/latest/api_reference.html)
+  - [Chat LangChain](https://chat.langchain.com/)
 - [LangChain - Github](https://github.com/langchain-ai/)
   - [Langchian JS/TS](https://github.com/langchain-ai/langchainjs)
   - [Commits](https://github.com/langchain-ai/langchain/commits/v0.0.64?after=08400f554215e98f886d4f4a1b98d6029c4b2a02+349&branch=v0.0.64&qualified_name=refs%2Ftags%2Fv0.0.64)
@@ -20,6 +21,8 @@
 - [Learn LangChian - YouTube](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 - [LangChain Basics Tutorial #1 - LLMs & PromptTemplates with Colab - YouTube](https://www.youtube.com/watch?v=J_0qvRt4LNk&list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ)
 - [LangChain Crash Course for Beginners - YouTube](https://www.youtube.com/watch?v=lG7Uxts9SXs)
+- [Learn Langchain for building apps powered by GPT-4, 3.5 and GPT 3 - YouTube](https://www.youtube.com/watch?v=aJ6IQUh8MLQ&list=PL611FKPtL866MnlDPHvI3KwVGqCB-QJAx&index=1)
+- [LangChain for Gen AI and LLMs- YouTube](https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F)
 
 ## Github 仓库
 
