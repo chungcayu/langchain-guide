@@ -210,6 +210,7 @@ pyrightconfig.json
 archive/*
 notes/.obsidian/*
 notes/templates/*
+notes/20231214-205805.md
 scripts/*
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos
